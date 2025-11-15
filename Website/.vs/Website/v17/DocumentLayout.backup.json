@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\My Website\\Website\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C48FCF53-19D0-4F85-B05A-55BBD47D9898}|Website\\Website.csproj|c:\\users\\ferdi\\onedrive\\masa\u00FCst\u00FC\\my website\\website\\website\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C48FCF53-19D0-4F85-B05A-55BBD47D9898}|Website\\Website.csproj|solutionrelative:website\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0FA3CFE5-9FC0-4F31-8D5A-EE3093D80888}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\ferdi\\onedrive\\masa\u00FCst\u00FC\\my website\\website\\dataaccesslayer\\concrete\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA3CFE5-9FC0-4F31-8D5A-EE3093D80888}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\concrete\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C48FCF53-19D0-4F85-B05A-55BBD47D9898}|Website\\Website.csproj|c:\\users\\ferdi\\onedrive\\masa\u00FCst\u00FC\\my website\\website\\website\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C48FCF53-19D0-4F85-B05A-55BBD47D9898}|Website\\Website.csproj|solutionrelative:website\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E73A10E2-D8D9-4457-A3E4-C1BE75EA624A}|EntityLayer\\EntityLayer.csproj|c:\\users\\ferdi\\onedrive\\masa\u00FCst\u00FC\\my website\\website\\entitylayer\\concrete\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E73A10E2-D8D9-4457-A3E4-C1BE75EA624A}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\concrete\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E73A10E2-D8D9-4457-A3E4-C1BE75EA624A}|EntityLayer\\EntityLayer.csproj|c:\\users\\ferdi\\onedrive\\masa\u00FCst\u00FC\\my website\\website\\entitylayer\\concrete\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E73A10E2-D8D9-4457-A3E4-C1BE75EA624A}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\concrete\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E73A10E2-D8D9-4457-A3E4-C1BE75EA624A}|EntityLayer\\EntityLayer.csproj|c:\\users\\ferdi\\onedrive\\masa\u00FCst\u00FC\\my website\\website\\entitylayer\\entitylayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E73A10E2-D8D9-4457-A3E4-C1BE75EA624A}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\entitylayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{0FA3CFE5-9FC0-4F31-8D5A-EE3093D80888}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\ferdi\\onedrive\\masa\u00FCst\u00FC\\my website\\website\\dataaccesslayer\\migrations\\20251115200420_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA3CFE5-9FC0-4F31-8D5A-EE3093D80888}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\migrations\\20251115200420_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,54 +62,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\My Website\\Website\\Website\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Website\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\My Website\\Website\\Website\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Website\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-15T00:25:11.447Z",
+              "DocumentIndex": 2,
+              "Title": "20251115200420_mig1.cs",
+              "DocumentMoniker": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\My Website\\Website\\DataAccessLayer\\Migrations\\20251115200420_mig1.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Migrations\\20251115200420_mig1.cs",
+              "ToolTip": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\My Website\\Website\\DataAccessLayer\\Migrations\\20251115200420_mig1.cs",
+              "RelativeToolTip": "DataAccessLayer\\Migrations\\20251115200420_mig1.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwD0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T20:04:22.067Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\My Website\\Website\\Website\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Website\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\My Website\\Website\\Website\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Website\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-15T00:24:57.326Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Feature.cs",
-              "DocumentMoniker": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\My Website\\Website\\EntityLayer\\Concrete\\Feature.cs",
-              "RelativeDocumentMoniker": "EntityLayer\\Concrete\\Feature.cs",
-              "ToolTip": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\My Website\\Website\\EntityLayer\\Concrete\\Feature.cs",
-              "RelativeToolTip": "EntityLayer\\Concrete\\Feature.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\My Website\\Website\\EntityLayer\\Concrete\\Message.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\Concrete\\Message.cs",
+              "ToolTip": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\My Website\\Website\\EntityLayer\\Concrete\\Message.cs",
+              "RelativeToolTip": "EntityLayer\\Concrete\\Message.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowAoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T00:20:17.396Z",
+              "WhenOpened": "2025-11-15T20:00:51.437Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EntityLayer.csproj",
-              "DocumentMoniker": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\My Website\\Website\\EntityLayer\\EntityLayer.csproj",
-              "RelativeDocumentMoniker": "EntityLayer\\EntityLayer.csproj",
-              "ToolTip": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\My Website\\Website\\EntityLayer\\EntityLayer.csproj",
-              "RelativeToolTip": "EntityLayer\\EntityLayer.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-15T00:19:03.938Z"
+              "DocumentIndex": 0,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\My Website\\Website\\DataAccessLayer\\Concrete\\Context.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Concrete\\Context.cs",
+              "ToolTip": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\My Website\\Website\\DataAccessLayer\\Concrete\\Context.cs",
+              "RelativeToolTip": "DataAccessLayer\\Concrete\\Context.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T19:51:39.58Z",
+              "EditorCaption": ""
             }
           ]
         },

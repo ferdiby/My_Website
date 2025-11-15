@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\My Website\\Website\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C48FCF53-19D0-4F85-B05A-55BBD47D9898}|Website\\Website.csproj|c:\\users\\ferdi\\onedrive\\masa\u00FCst\u00FC\\my website\\website\\website\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C48FCF53-19D0-4F85-B05A-55BBD47D9898}|Website\\Website.csproj|solutionrelative:website\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C48FCF53-19D0-4F85-B05A-55BBD47D9898}|Website\\Website.csproj|c:\\users\\ferdi\\onedrive\\masa\u00FCst\u00FC\\my website\\website\\website\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C48FCF53-19D0-4F85-B05A-55BBD47D9898}|Website\\Website.csproj|solutionrelative:website\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E73A10E2-D8D9-4457-A3E4-C1BE75EA624A}|EntityLayer\\EntityLayer.csproj|c:\\users\\ferdi\\onedrive\\masa\u00FCst\u00FC\\my website\\website\\entitylayer\\concrete\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E73A10E2-D8D9-4457-A3E4-C1BE75EA624A}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\concrete\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E73A10E2-D8D9-4457-A3E4-C1BE75EA624A}|EntityLayer\\EntityLayer.csproj|c:\\users\\ferdi\\onedrive\\masa\u00FCst\u00FC\\my website\\website\\entitylayer\\entitylayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E73A10E2-D8D9-4457-A3E4-C1BE75EA624A}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\entitylayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{8B3E2695-39D2-4620-B8FA-6CD48EAA8807}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\ferdi\\onedrive\\masa\u00FCst\u00FC\\my website\\website\\businesslayer\\abstract\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B3E2695-39D2-4620-B8FA-6CD48EAA8807}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\abstract\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -67,53 +55,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\My Website\\Website\\Website\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Website\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\My Website\\Website\\Website\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Website\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-15T00:25:11.447Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\My Website\\Website\\Website\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Website\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\My Website\\Website\\Website\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Website\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-15T00:24:57.326Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Feature.cs",
-              "DocumentMoniker": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\My Website\\Website\\EntityLayer\\Concrete\\Feature.cs",
-              "RelativeDocumentMoniker": "EntityLayer\\Concrete\\Feature.cs",
-              "ToolTip": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\My Website\\Website\\EntityLayer\\Concrete\\Feature.cs",
-              "RelativeToolTip": "EntityLayer\\Concrete\\Feature.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Title": "IGenericService.cs",
+              "DocumentMoniker": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\My Website\\Website\\BusinessLayer\\Abstract\\IGenericService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Abstract\\IGenericService.cs",
+              "ToolTip": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\My Website\\Website\\BusinessLayer\\Abstract\\IGenericService.cs",
+              "RelativeToolTip": "BusinessLayer\\Abstract\\IGenericService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T00:20:17.396Z",
+              "WhenOpened": "2025-11-15T21:40:55.183Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EntityLayer.csproj",
-              "DocumentMoniker": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\My Website\\Website\\EntityLayer\\EntityLayer.csproj",
-              "RelativeDocumentMoniker": "EntityLayer\\EntityLayer.csproj",
-              "ToolTip": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\My Website\\Website\\EntityLayer\\EntityLayer.csproj",
-              "RelativeToolTip": "EntityLayer\\EntityLayer.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-15T00:19:03.938Z"
             }
           ]
         },
